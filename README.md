@@ -3,7 +3,7 @@
   
   
 Выйти на связь со мной:  
-- __Telegram:__ [@si1ent_wanderer](https://teleg.run/si1ent_wanderer "Telegram чат")  
+- __Telegram:__ [@si1ent_wanderer](https://t.me/si1ent_wanderer "Telegram чат")  
 
 ## Реальные работы  
 ### [MyFinLab](https://myfinlab.ru) - сайт финансовой компании  
