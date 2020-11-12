@@ -21,7 +21,18 @@
 ---  
    
 ## Тренировочные макеты
-
+### [HouseVOP](https://si1entwanderer.github.io/housevop/) - сайт финансовой компании  
+   ![HouseVOP][housevop_bg]
+   __Ориентировочная стоимость проекта__: 4 000р
+   __Срок__: 2 дня 
+   __Проделанная работа:__
+   - адаптивная верстка
+   - попап для видео
+   - анимация для иконки скролла
+   - анимация появления блоков при скролле
+  
+---  
    
    
 [mfl_bg]: https://github.com/Si1entWanderer/portfolio/blob/main/mfl_bg1.png 'mfl'
+[housevop_bg]: https://raw.githubusercontent.com/Si1entWanderer/housevop/main/houseVOP_ed.png 'housevop'
