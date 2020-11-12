@@ -19,7 +19,11 @@
    - секция комментариев с возможностью ответа
   
 ---  
-   
+  
+
+  
+  
+  
 ## Тренировочные макеты
 ### [HouseVOP](https://si1entwanderer.github.io/housevop/) - сайт финансовой компании  
    ![HouseVOP][housevop_bg]
