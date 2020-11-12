@@ -25,7 +25,7 @@
   
   
 ## Тренировочные макеты
-### [HouseVOP](https://si1entwanderer.github.io/housevop/) - сайт финансовой компании  
+### [HouseVOP](https://si1entwanderer.github.io/housevop/) - лендинг жилищной компании 
    ![HouseVOP][housevop_bg]
    __Ориентировочная стоимость проекта__: 4 000р  
    __Срок__: 2 дня  
